@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```js
+const jaimecala = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS,  Java, C#],
+  tools: [Angular, Angular Material, Node, Bootstrap, Nest.js, TypeORM, Android Studio],
+  
+}
+```
+
+
+
 <!--
 **JaimeCala/JaimeCala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
